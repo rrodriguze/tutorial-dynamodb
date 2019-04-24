@@ -1,0 +1,8 @@
+1. Inicio sesion
+2. https://console.aws.amazon.com/iam/home?#/home --> Usuarios
+3. Rellenar los campos de nuevo usuario y nuevo grupo, aceptar todo
+4. Instalar aws-cli --> https://docs.aws.amazon.com/es_es/amazondynamodb/latest/developerguide/Tools.CLI.html --> pip install awscli
+5. Instalar sdk para node.js --> https://aws.amazon.com/es/sdk-for-node-js/ --> npm install aws-sdk
+6. Creacion archivo credenciales Usuarios de Linux, Unix y macOS: ~/.aws/credentials Usuarios de Windows: C:\Users\USER_NAME\.aws\credentials
+7. Escribir codigo
+8. Ejecutar usando node fichero.js
